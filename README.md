@@ -1,2 +1,2 @@
 # Markdown-Tutorials
-Practicing how to adjuct comments
+Practicing how to adjust comments
