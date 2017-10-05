@@ -1,3 +1,7 @@
+//Create links by [what you want to say](web URL)  
+//Or add a library by [] []  
+//than later []: ______ []:_______
+
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
 
