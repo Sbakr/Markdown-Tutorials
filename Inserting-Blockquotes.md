@@ -1,6 +1,6 @@
-//Blockquotes are a way to over pronouce parts of text, 
-//always put a > before the start of a paragrap
-//here's an example
+//Blockquotes are a way to over pronouce parts of text   
+//always put a > before the start of a paragraph  
+//here's an example  
 
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
