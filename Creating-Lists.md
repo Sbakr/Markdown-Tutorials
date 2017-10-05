@@ -5,6 +5,6 @@
 > * Be careful when holding the knife.
 > * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-// *, space, word = unordered list
-// number, space, word = ordered list
-//space, *, space, word = sub unordered list
+// *, space, word = unordered list  
+// number, space, word = ordered list  
+//space, *, space, word = sub unordered list  
