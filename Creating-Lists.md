@@ -8,5 +8,9 @@
 // *, space, word = unordered list  
 // number, space, word = ordered list  
 //space, *, space, word = sub unordered list  
+// > gives a line boarder thing in front of words
 
+* How are you
  * DOes this work?
+> * I think so 
+> 3. What are you doing
